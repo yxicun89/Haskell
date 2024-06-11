@@ -1,0 +1,1 @@
+maxOdd xxs = maximum [ [x | x <- xs, odd x ] | xs <- xxs]

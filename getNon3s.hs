@@ -1,0 +1,1 @@
+getNon3s xs = [head as | (x,as) <- xs, x /= 3, as /= []]

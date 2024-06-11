@@ -1,0 +1,1 @@
+sumDiagN xxs = sum [xss !! (length xxs - x) !! (length xxs - x) | x <- [1..length xxs]]

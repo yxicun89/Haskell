@@ -1,0 +1,1 @@
+countEq x xs = length [t | t <- xs, t == x]

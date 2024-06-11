@@ -1,0 +1,1 @@
+singlify xs = [ [x] | x <- xs]

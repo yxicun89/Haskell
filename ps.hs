@@ -1,0 +1,1 @@
+ps x = (pred x, succ x)

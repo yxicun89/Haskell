@@ -1,0 +1,1 @@
+sumCol n xxs = sum (map (!! n) xxs)

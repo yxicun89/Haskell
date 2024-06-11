@@ -1,0 +1,1 @@
+sumRow n xxs = (map (sum) xxs) !! n

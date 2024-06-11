@@ -1,0 +1,1 @@
+scalarProduct xs ys = sum (zipWith (*) xs ys)

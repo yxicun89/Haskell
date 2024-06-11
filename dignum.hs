@@ -1,0 +1,1 @@
+dignum xs = [xs !! k | k <- [0..(length xs)-1]]

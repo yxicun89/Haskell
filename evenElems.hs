@@ -1,0 +1,1 @@
+evenElems xs = [xs !! x | x<- [0..length xs], even x]

@@ -1,0 +1,1 @@
+latter xs = [x | x <- drop (length xs`div`2) xs ]

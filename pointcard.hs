@@ -1,0 +1,1 @@
+pointcard n xs = maximum [if (2*n - x) <= 5 then 0 else (2*n - x) | x <- xs]

@@ -1,0 +1,1 @@
+scalarProduct x y = fst x * snd y + snd x * fst y

@@ -1,0 +1,1 @@
+lenAndHead xxs = [(length xs, head xs)| xs <- xxs]

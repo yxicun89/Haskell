@@ -1,0 +1,1 @@
+fact n = product [x | x <- [1..n] ]
